@@ -5,7 +5,7 @@
 
 Installation du serveur web apache2 réussie.
 
-![[Capture-d'écran-2026-06-25-141318.png]](Ressources/Capture d'écran 2026-06-25 141318.png)
+![[Capture-d'écran-2026-06-25-141318.png]](Ressources/Capture-d'écran-2026-06-25-141318.png)
 
 ![[Capture d'écran 2026-06-25 141720.png]](Ressources/Capture d'écran 2026-06-25 141720.png)
 
